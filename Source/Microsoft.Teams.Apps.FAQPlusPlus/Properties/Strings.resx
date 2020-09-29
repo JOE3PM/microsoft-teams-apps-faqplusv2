@@ -133,7 +133,7 @@
     <value>Dígale a mi equipo de expertos cómo lo estoy haciendo para que puedan ayudarme a mejorar.</value>
     <comment>Text suggests that user is invited to share his feedback on his experience using bot.</comment>
   </data>
-    <data name="FeedbackText3" xml:space="preserve">
+  <data name="FeedbackText3" xml:space="preserve">
     <value>Puedes aprender mas en el portal de O365 de EPM.</value>
     <comment>Mesnaje opcional del carrusel</comment>
   </data>
@@ -232,7 +232,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>Text on change status button.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
-    <value>Esto es lo que encontre:</value>
+    <value>En mi busqueda esto es lo que encontre:</value>
     <comment>Response header-letting the user know that a response is generated to their request from QnA Maker.</comment>
   </data>
   <data name="ClosedFactTitle" xml:space="preserve">
@@ -604,5 +604,5 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
   <data name="ShareAppFeedbackRating" xml:space="preserve">
     <value>How helpful is this app? (Required)</value>
     <comment>Feedback for App</comment>
-  </data>																								  
+  </data>
 </root>
