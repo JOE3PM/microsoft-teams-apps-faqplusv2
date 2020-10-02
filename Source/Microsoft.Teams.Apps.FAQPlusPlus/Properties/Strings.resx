@@ -162,7 +162,7 @@
     <comment>Status one of the available fact set in notification cards.</comment>
   </data>
   <data name="AskAnExpertButtonText" xml:space="preserve">
-    <value>Preguntar a Experto</value>
+    <value>Preguntar a experto</value>
     <comment>Action button which invokes ask an expert show card.</comment>
   </data>
   <data name="ThankYouTextContent" xml:space="preserve">
@@ -202,13 +202,13 @@
     <comment>Team carousel query card content- team can keep track of the user request.</comment>
   </data>
   <data name="TakeATeamTourButtonText" xml:space="preserve">
-    <value>Tour por Teams</value>
+    <value>Tour Teams</value>
     <comment>Action button which gives tour for the team on bot Functionalities.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
     <value>Hola Equipo,   
 
-Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interactúan conmigo y necesitan más ayuda.</value>
+Soy Sarah su amiga Q&amp;A bot que te brindara apoyo con todas las preguntas e inquietudes con el los servicios de la Tecnologia e Informacion, asi como de las personas que interactúan conmigo y necesitan más ayuda.</value>
     <comment>Welcome message when bot is added to a new team.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
@@ -228,7 +228,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>When SME team member asks bot a questions- a message appears saying that team member is supposed to install the bot in personal scope.</comment>
   </data>
   <data name="ChangeStatusButtonText" xml:space="preserve">
-    <value>Estado del Cambio</value>
+    <value>Estado del cambio</value>
     <comment>Text on change status button.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
@@ -264,7 +264,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>Title text of share feedback user carousel card.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
-    <value>Preguntar a Experto</value>
+    <value>Preguntar a experto</value>
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
@@ -312,7 +312,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>The status value for the user notification when a ticket is closed by an expert.</comment>
   </data>
   <data name="UnassignedUserNotificationStatus" xml:space="preserve">
-    <value>Sin Asignar</value>
+    <value>Sin asignar</value>
     <comment>The status value for the user notification when a ticket is unassigned</comment>
   </data>
   <data name="SMEUserChatMessage" xml:space="preserve">
@@ -380,7 +380,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>Rating is mandatory , a warning message to the user when rating is not submitted in share feedback activity.</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Tour por Teams</value>
+    <value>Tour Teams</value>
     <comment>Take a tour button available for the users on welcome card, through which user can take a tour on bot functionalities in personal scope. </comment>
   </data>
   <data name="TitleFact" xml:space="preserve">
@@ -472,7 +472,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>Error message to show if question is already existing in the knowledgebase while adding or editing the QnA pair.</comment>
   </data>
   <data name="OpenArticle" xml:space="preserve">
-    <value>Abrir Articulo</value>
+    <value>Abrir articulo</value>
     <comment>Open article button text, which will show on adaptiver rich card if redirection url field is filled while adding/editing the QnA pair.</comment>
   </data>
   <data name="BackButtonCommandText" xml:space="preserve">
@@ -556,7 +556,7 @@ Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interac
     <comment>Error message to show if title text box is empty while adding or editing the QnA pair.</comment>
   </data>
   <data name="GoToThread" xml:space="preserve">
-    <value>Ver Detalles</value>
+    <value>Ver detalles</value>
     <comment>Button title for the card created through Messaging Extension</comment>
   </data>
   <data name="PreviewButtonText" xml:space="preserve">

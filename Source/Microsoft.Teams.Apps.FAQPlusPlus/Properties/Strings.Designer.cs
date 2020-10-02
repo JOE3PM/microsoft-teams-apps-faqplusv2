@@ -88,7 +88,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preguntar a Experto.
+        ///   Looks up a localized string similar to Preguntar a experto.
         /// </summary>
         public static string AskAnExpertButtonText {
             get {
@@ -97,7 +97,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preguntar a Experto.
+        ///   Looks up a localized string similar to Preguntar a experto.
         /// </summary>
         public static string AskAnExpertDisplayText {
             get {
@@ -187,7 +187,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Estado del Cambio.
+        ///   Looks up a localized string similar to Estado del cambio.
         /// </summary>
         public static string ChangeStatusButtonText {
             get {
@@ -475,7 +475,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ver Detalles.
+        ///   Looks up a localized string similar to Ver detalles.
         /// </summary>
         public static string GoToThread {
             get {
@@ -610,7 +610,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Abrir Articulo.
+        ///   Looks up a localized string similar to Abrir articulo.
         /// </summary>
         public static string OpenArticle {
             get {
@@ -943,7 +943,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tour por Teams.
+        ///   Looks up a localized string similar to Tour Teams.
         /// </summary>
         public static string TakeATeamTourButtonText {
             get {
@@ -952,7 +952,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tour por Teams.
+        ///   Looks up a localized string similar to Tour Teams.
         /// </summary>
         public static string TakeATourButtonText {
             get {
@@ -1078,7 +1078,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sin Asignar.
+        ///   Looks up a localized string similar to Sin asignar.
         /// </summary>
         public static string UnassignedUserNotificationStatus {
             get {
@@ -1143,7 +1143,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Hola Equipo,   
         ///
-        ///Soy su amigo Q&amp;A bot que te ayuda a brindar apoyo a las personas que interactúan conmigo y necesitan más ayuda..
+        ///Soy Sarah su amiga Q&amp;A bot que te brindara apoyo con todas las preguntas e inquietudes con el los servicios de la Tecnologia e Informacion, asi como de las personas que interactúan conmigo y necesitan más ayuda..
         /// </summary>
         public static string WelcomeTeamCardContent {
             get {
