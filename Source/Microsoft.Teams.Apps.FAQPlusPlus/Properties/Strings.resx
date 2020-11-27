@@ -202,7 +202,7 @@
     <comment>Team carousel query card content- team can keep track of the user request.</comment>
   </data>
   <data name="TakeATeamTourButtonText" xml:space="preserve">
-    <value>Tour Teams</value>
+    <value>Tour por Teams</value>
     <comment>Action button which gives tour for the team on bot Functionalities.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
@@ -380,7 +380,7 @@ Soy Sarah su amiga Q&amp;A bot que te brindara apoyo con todas las preguntas e i
     <comment>Rating is mandatory , a warning message to the user when rating is not submitted in share feedback activity.</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Tour Teams</value>
+    <value>Tour por Teams</value>
     <comment>Take a tour button available for the users on welcome card, through which user can take a tour on bot functionalities in personal scope. </comment>
   </data>
   <data name="TitleFact" xml:space="preserve">
