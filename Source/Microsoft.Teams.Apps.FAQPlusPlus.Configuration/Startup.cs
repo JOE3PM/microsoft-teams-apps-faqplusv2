@@ -10,7 +10,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration
     using global::Owin;
 
     /// <summary>
-    /// Startup.
+    /// Startup
     /// </summary>
     public partial class Startup
     {
