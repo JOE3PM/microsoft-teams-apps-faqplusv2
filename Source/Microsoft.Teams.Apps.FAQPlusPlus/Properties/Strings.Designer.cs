@@ -133,7 +133,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preguntar a Experto.
+        ///   Looks up a localized string similar to Preguntar a experto.
         /// </summary>
         public static string AskAnExpertTitleText {
             get {
